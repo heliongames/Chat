@@ -1,0 +1,16 @@
+C:\Users\Root\source\repos\HelionChat\HelionChat\bin\Release\netcoreapp3.1\HelionChat.exe
+C:\Users\Root\source\repos\HelionChat\HelionChat\bin\Release\netcoreapp3.1\HelionChat.deps.json
+C:\Users\Root\source\repos\HelionChat\HelionChat\bin\Release\netcoreapp3.1\HelionChat.runtimeconfig.json
+C:\Users\Root\source\repos\HelionChat\HelionChat\bin\Release\netcoreapp3.1\HelionChat.runtimeconfig.dev.json
+C:\Users\Root\source\repos\HelionChat\HelionChat\bin\Release\netcoreapp3.1\HelionChat.dll
+C:\Users\Root\source\repos\HelionChat\HelionChat\bin\Release\netcoreapp3.1\HelionChat.pdb
+C:\Users\Root\source\repos\HelionChat\HelionChat\bin\Release\netcoreapp3.1\Lidgren.Network.dll
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.csproj.AssemblyReference.cache
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.AssemblyInfoInputs.cache
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.AssemblyInfo.cs
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.csproj.CopyComplete
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.dll
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.pdb
+C:\Users\Root\source\repos\HelionChat\HelionChat\obj\Release\netcoreapp3.1\HelionChat.genruntimeconfig.cache
