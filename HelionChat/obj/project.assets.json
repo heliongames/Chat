@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Root\\.nuget\\packages\\": {}
+    "C:\\Users\\elidi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Root\\source\\repos\\HelionChat\\HelionChat\\HelionChat.csproj",
+      "projectUniqueName": "C:\\Unity\\Chat\\HelionChat\\HelionChat.csproj",
       "projectName": "HelionChat",
-      "projectPath": "C:\\Users\\Root\\source\\repos\\HelionChat\\HelionChat\\HelionChat.csproj",
-      "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Root\\source\\repos\\HelionChat\\HelionChat\\obj\\",
+      "projectPath": "C:\\Unity\\Chat\\HelionChat\\HelionChat.csproj",
+      "packagesPath": "C:\\Users\\elidi\\.nuget\\packages\\",
+      "outputPath": "C:\\Unity\\Chat\\HelionChat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\elidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
